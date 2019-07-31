@@ -1,0 +1,1 @@
+This is a simple android app to calculate the salary required to have a standard of living in the New City which is equivalent to the standard of living that the Base Salary provides in the Current City.
